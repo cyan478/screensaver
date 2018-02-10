@@ -1,7 +1,7 @@
 # screensaver
-#### Using Processing to Display a Time Sensitive Screensaver
+###Using Processing to Display a Time Sensitive Screensaver
 
-#####Assignment 06 for Programming Basics
+####Assignment 06 for Programming Basics
 
 This is a time sensitive screensaver. The background sky changes color depending on the time of the day. There are animated objects* that provide a sense of time passing, as well as the digital clock, which tell the time.
 
@@ -30,5 +30,5 @@ Enjoy!
 
 #### Example Screenshots:
 
-![screensave png](/Users/cyan/DESIGN/ProgBasics/screensaver/screensave png.png)
+![screensave png](./screensave png.png)
 
