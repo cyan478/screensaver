@@ -30,5 +30,5 @@ Enjoy!
 
 #### Example Screenshots:
 
-![screensave png](./screensave png.png)
+![screensave png](screensave png.png)
 
